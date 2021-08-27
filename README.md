@@ -1,1 +1,12 @@
-# minecraft-keyboard
+# Використання Клавітури в Maйнкрафті
+## Включення коду
+<img src = "img/kb2.jpg">  
+
+## Відкриття інвентарю
+<img src = "img/kb3.jpg">  
+
+## Відкриття чату
+<img src = "img/kb4.jpg">  
+
+## Пересування гравця в світі
+<img src = "img/kb5.jpg">
